@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["to_rgbe8","Converts ```Rgb<f32>``` into ```RGBE8Pixel```"]],"struct":[["HDREncoder","Radiance HDR encoder"]]});
